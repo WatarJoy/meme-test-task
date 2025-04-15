@@ -15,7 +15,12 @@ export default function ListPage({ initialMemes }: { initialMemes: Meme[] }) {
           <Image width={200} height={120} src={meme.image} alt={meme.title} />
           <h3 className="text-lg font-bold">{meme.title}</h3>
           <p>{meme.likes} likes</p>
-          <a href={meme.image} target="_blank" className="text-blue-600">
+          <a
+            href={meme.image}
+            target="_blank"
+            rel="noreferrer"
+            className="text-blue-600"
+          >
             View Image
           </a>
         </Card>
