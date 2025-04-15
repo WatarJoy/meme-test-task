@@ -4,7 +4,7 @@ A Next.js + TypeScript application for browsing memes with static site generatio
 
 ## Demo
 
-Check out the live demo: [Meme Test Task Demo](meme-test-task-production.up.railway.app)
+Check out the live demo: [Meme Test Task Demo](https://meme-test-task-production.up.railway.app)
 
 ## Features
 
