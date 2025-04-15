@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "title": "Distracted Boyfriend",
+    "image": "/Distracted_Boyfriend.jpg",
+    "likes": 42
+  },
+  {
+    "id": 2,
+    "title": "Success Kid",
+    "image": "/Success_Kid.jpg",
+    "likes": 65
+  },
+  {
+    "id": 3,
+    "title": "Bad Luck Brian",
+    "image": "/Bad_Luck_Brian.jpg",
+    "likes": 31
+  },
+  {
+    "id": 4,
+    "title": "Grumpy Cat",
+    "image": "/Grumpy_Cat.jpg",
+    "likes": 78
+  },
+  {
+    "id": 5,
+    "title": "Doge",
+    "image": "/Doge.jpg",
+    "likes": 54
+  },
+  {
+    "id": 6,
+    "title": "Roll Safe",
+    "image": "/Roll_Safe.jpg",
+    "likes": 47
+  },
+  {
+    "id": 7,
+    "title": "One Does Not Simply",
+    "image": "/One_Does_Not_Simply.jpg",
+    "likes": 60
+  },
+  {
+    "id": 8,
+    "title": "Philosoraptor",
+    "image": "/Philosoraptor.jpg",
+    "likes": 29
+  },
+  {
+    "id": 9,
+    "title": "Condescending Wonka",
+    "image": "/Condescending_Wonka.jpg",
+    "likes": 33
+  },
+  {
+    "id": 10,
+    "title": "Bombardiro Crocodilo",
+    "image": "/Bombardiro_Crocodilo.jpg",
+    "likes": 72
+  }
+]
